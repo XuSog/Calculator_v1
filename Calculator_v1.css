@@ -1,0 +1,28 @@
+#screen
+{   width:100%;
+    height:110px;
+    background-color: aqua;
+    text-align: right;
+    font-size: 100px;
+    margin: 0;
+}
+
+#subscreen
+{
+    width:100%;
+    height: 40px;
+    background-color: burlywood;
+    text-align: left;
+    font-size:35px;
+    margin:0;
+}
+.btn
+{   width: 22%;                                           /*如果是25%会因为btn间隔导致一行不能放四个按钮*/
+    height:100px;
+    font-size: 30px;
+    background-color: aquamarine;
+    display: inline;
+    text-align: center;
+    margin:1%;
+    
+}
